@@ -22,7 +22,8 @@ h1 {
   width:80%;
   letter-spacing:0.05em;
   word-spacing:0.1em
-  text-align:center;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 p,h4 {
