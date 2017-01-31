@@ -10,6 +10,7 @@ body {
   background: linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
 }
 
+<!--fonts-->
 h1 {
   color:MidnightBlue;
   font-family: 'Bevan', cursive; sans-serif;
@@ -37,4 +38,11 @@ p,h4 {
 
 h3 {
   font-style:italic;
+}
+
+<!--style-->
+.centerImage
+{
+text-align:center;
+display:block;
 }
