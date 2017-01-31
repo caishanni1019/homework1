@@ -10,10 +10,12 @@ body {
   background: linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
 }
 
-<!--fonts-->
+/*--fonts--*/
 h1 {
   color:MidnightBlue;
-  font-family: 'Bevan', cursive; sans-serif;
+  font-family: 'Bevan', cursive;
+  font-family: 'Questrial', sans-serif;
+  font-family: 'Luckiest Guy', cursive;
   font-size: 66px;
   line-height: 76px;
   margin: 20px;
