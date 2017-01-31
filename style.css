@@ -22,6 +22,7 @@ h1 {
   width:80%;
   letter-spacing:0.05em;
   word-spacing:0.1em
+  text-align:center;
 }
 
 p,h4 {
@@ -34,3 +35,6 @@ p,h4 {
   font-weight:bold;
 }
 
+h3 {
+  font-style:italic;
+}
