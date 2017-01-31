@@ -28,6 +28,8 @@ p,h3,h4 {
   font-family:'Roboto', sans-serif;
   word-spacing:0.05em;
   letter-spacing:0.02em;
+  line-height:1.5em;
   color: rgb(54, 74, 101);
+  font-weight:400;
 }
 
