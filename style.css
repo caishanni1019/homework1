@@ -47,9 +47,8 @@ h3 {
 
 img {
   text-align: center;
-  position:relative;
+  position:center;
   width:70%;
   height:70%
   margin: 150px;
-  display:block;
 }
