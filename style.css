@@ -35,20 +35,19 @@ p,h4 {
   letter-spacing:0.02em;
   line-height:1.5em;
   color: rgb(54, 74, 101);
-  margin: 150px;
+  margin: 100px;
   position: relative;
 }
 
 h3 {
   font-style:italic;
-  margin: 150px;
+  text-align: center;
   position: relative;
 }
 
 .img {
   text-align: center;
   position:center;
-  width:70%;
-  height:70%
-  margin: 150px;
+  width:50%;
+  height:50%
 }
