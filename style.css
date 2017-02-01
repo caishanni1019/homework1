@@ -3,6 +3,7 @@ body {
   margin: 0;
   text-align: center;
   background: #f7f7f7;
+  margin: 60px auto;
   /* Old browsers */
   background: -moz-linear-gradient(45deg, #f7f7f7 0%, #EAE0D5 100%);
   /* FF3.6-15 */
